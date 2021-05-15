@@ -1,0 +1,5 @@
+name: SimpleMotd
+author: Augusto
+version: 1.0
+main: me.augusto.Main
+description: A simple Motd plugin.
